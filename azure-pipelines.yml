@@ -7,8 +7,9 @@ trigger:
 - '*'
 
 pool: 'BLRL112453'
-  demands:
-  - npm
+  
+demands:
+- npm
 
 steps:
 - task: UseDotNet@2
