@@ -7,8 +7,6 @@ trigger:
 - '*'
 
 pool: 'MyTesting'
-  demands:
-  - npm
 
 steps:
 - task: UseDotNet@2
