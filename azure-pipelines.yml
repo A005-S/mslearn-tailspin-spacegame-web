@@ -6,7 +6,7 @@
 trigger:
 - '*'
 
-pool: 'BLRL112453'
+pool: 'MyTesting'
   demands:
   - npm
 
