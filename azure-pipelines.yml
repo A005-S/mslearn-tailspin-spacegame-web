@@ -7,8 +7,6 @@ trigger:
 - '*'
 
 pool: 'MyTesting'
-  depends:
-  - npm
 
 variables:
   buildConfiguration: 'Release'
