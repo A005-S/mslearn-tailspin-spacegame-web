@@ -6,7 +6,7 @@
 trigger:
 - '*'
 
-pool: 'MyTesting'
+pool: 'MyTestAgent'
 
 variables:
   buildConfiguration: 'Release'
